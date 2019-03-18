@@ -2,3 +2,6 @@ name: Sean Mullan
 markdown: kramdown
 theme: jekyll-theme-tactile
 permalink: /blog/:year/:month/:day/:title
+
+kramdown:
+  line_width: 80
