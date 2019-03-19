@@ -5,4 +5,4 @@ permalink: /blog/:year/:month/:day/:title
 
 kramdown:
   line_width: 80
-  hard_wrap: true
+  hard_wrap: false
