@@ -1,6 +1,6 @@
 name: Sean Mullan
 markdown: kramdown
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
 
 kramdown:
